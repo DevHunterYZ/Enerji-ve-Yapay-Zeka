@@ -1,1 +1,4 @@
+Spot elektrik fiyatlarının derin öğrenme teknikleri ile tahmini: türkiye enerji borsası üzerine bir uygulama
 
+etmektedir. Bu çalışmada, Türkiye Enerji Borsası EPİAŞ’ın bünyesinde işletilmekte olan Gün Öncesi Piyasası’nda gerçekleşen saatlik Piyasa Takas Fiyatının tahmin edilmesi amaçlanmıştır. Bu doğrultuda, derin öğrenme teknikleri olan Çok Katmanlı Algılayıcılar (MLP), Evrişimli Sinir Ağları (CNN), Uzun Kısa Dönem Hafıza (LSTM) ve Kapılı Tekrarlayan Birim (GRU) modelleri ile 24 saat ve 168 saat ilerisi için tahminler gerçekleştirilmiştir. Tahmin sonuçlarına göre, 24 saat ilerisi için yapılan tahminlerde MLP, CNN, LSTM ve GRU modelleri ile sırasıyla ortalama 8,44, 9,27, 8,15 ve 8,72 MAPE değerleri elde edilmiştir. 168 saat ilerisi için yapılan tahminlerde ise, MLP, CNN ve GRU modelleri ile elde edilen tahminlerin ortalama MAPE değerleri sırasıyla 10,60, 10,13 ve 9,58 olmuştur.
+https://acikerisim.aku.edu.tr/xmlui/handle/11630/9494
