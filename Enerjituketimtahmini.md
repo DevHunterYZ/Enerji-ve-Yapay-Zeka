@@ -1,5 +1,5 @@
 
-
+Faydalı kaynak: https://www.acarindex.com/sivas-cumhuriyet-universitesi-bilim-ve-teknoloji-dergisi/turkiye-elektrik-tuketiminin-deep-learning-bi-lstm-metodu-ile-tahmini-1317336
 
 Short Term Electricity Consumption Forecasting Using Long Short-term Memory Cells
 Short Term Electricity Consumption Forecasting Using Long Short-term Memory Cells
