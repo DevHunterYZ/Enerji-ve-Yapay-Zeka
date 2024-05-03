@@ -23,3 +23,6 @@ from keras.wrappers.scikit_learn import KerasClassifier
 import keras
 
 output = pd.DataFrame(index=None, columns=['model','train_r2_score','test_r2_score'])
+
+data = pd.read_csv('ENB2012_data.csv')
+data.head()
